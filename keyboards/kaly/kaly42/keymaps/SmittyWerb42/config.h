@@ -5,6 +5,6 @@
 #define VIAL_UNLOCK_COMBO_COLS { 0, 1 }
 
 /* default layer count */
-#define DYNAMIC_KEYMAP_LAYER_COUNT 4
+#define DYNAMIC_KEYMAP_LAYER_COUNT 10
 
 #define SPLIT_USB_DETECT
